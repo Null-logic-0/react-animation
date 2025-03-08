@@ -1,8 +1,11 @@
-# React + Vite
+React Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Animation is a web application built with React, Vite, and Framer Motion that allows users to explore and experiment with advanced animation techniques and interactive motion effects. The platform enables developers and designers to create, visualize, and test a wide range of animations in real-time with a smooth and responsive UI.
 
-Currently, two official plugins are available:
+Key Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    React: A JavaScript library for building dynamic user interfaces.
+    Vite: A fast and efficient build tool for rapid development and optimal performance.
+    Framer Motion: A powerful animation library for creating complex, interactive animations with ease.
+    Real-Time Animation Preview: Provides users the ability to quickly visualize and experiment with different animation effects.
+    Fast & Lightweight: Optimized for performance to ensure seamless animation playback.
